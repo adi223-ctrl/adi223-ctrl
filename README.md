@@ -1,12 +1,12 @@
 👋 Hello, I'm Aditya Deshpande!
 Welcome to my GitHub Profile!
-I’m a passionate Data Science graduate who constantly explores new ways to leverage data for impactful solutions. My areas of expertise include Python,SQL, and Excel, and I am committed to growing as a Data Analyst by expanding my knowledge in Machine Learning and **Data Visualization
+I’m a passionate Data Science graduate who constantly explores new ways to leverage data for impactful solutions. My areas of expertise include Python,SQL, and Excel, and I am committed to growing as a Data Analyst by expanding my knowledge in Machine Learning and Data Visualization
 
  💼 About Me:
 - 🎓 BSc in Data Science graduate from Sri Sai Degree & PG College.
 - 💡 Aspiring Data Analyst working towards mastering tools like Power BI and machine learning.
-- 📊 Interested in **data analysis** and use it to generate actionable business insights.
-- 🌱 Currently preparing for my **master’s degree in Germany** while refining my skills.
+- 📊 Interested in data analysis and use it to generate actionable business insights.
+- 🌱 Currently preparing for my master’s degree in Germany while refining my skills.
   
  🚀 Skills:
 - Programming Languages: Python, SQL
